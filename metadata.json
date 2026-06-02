@@ -1,0 +1,6 @@
+{
+  "name": "Black Hole Visualizer",
+  "description": "An immersive, physically inspired 3D simulation of a Schwarzschild black hole with an accretion disk, gravitational lensing, and Doppler boosting using Three.js and GLSL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
